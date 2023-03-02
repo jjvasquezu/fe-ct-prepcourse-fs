@@ -21,7 +21,7 @@ function menosQueNoventa(num) {
    // Tu código:
    if (num < 90) {return true;} else {return false;}
 }
-
+Math.pow(3,2);
 function mayorQueCincuenta(num) {
    // Retorna true si el argumento "num" es mayor que cincuenta.
    // De lo contrario, retorna false.
